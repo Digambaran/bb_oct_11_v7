@@ -1,14 +1,1 @@
-{
-  "name": "testfork13",
-  "type": "ui-container",
-  "source": {
-    "https": "https://github.com/devthalal/testfork13",
-    "ssh": "git@github.com:devthalal/testfork13.git"
-  },
-  "language": "nodejs",
-  "start": "npx webpack-dev-server",
-  "build": "npx webpack",
-  "postPull": "npm i",
-  "standAloneBlock": true,
-  "isFork": true
-}
+{"name":"bb_oct_11_v7","type":"ui-container","source":{"https":"https://github.com/Digambaran/bb_oct_11_v7","ssh":"git@github.com:Digambaran/bb_oct_11_v7.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i","standAloneBlock":true,"isFork":true}
